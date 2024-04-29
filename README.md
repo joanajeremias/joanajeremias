@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**joanajeremias/joanajeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joana! 💻❤️
 
-Here are some ideas to get you started:
+- 🚀 I recently completed a Full Stack Bootcamp.
+- 🌱 I'm currently learning and learning and learning.
+- 💬 Ask me about [something related to programming or technology].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's Connect!
+
+- [LinkedIn link](https://www.linkedin.com/in/joanajeremias/))
+
+Feel free to explore my profile and get in touch! 😊
