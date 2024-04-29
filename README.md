@@ -8,6 +8,6 @@ I'm Joana!
 
 ### Let's Connect!
 
-- [LinkedIn link](https://www.linkedin.com/in/joanajeremias/))
+- [LinkedIn link](https://www.linkedin.com/in/joanajeremias/)
 
 Feel free to explore my profile and get in touch! 😊
