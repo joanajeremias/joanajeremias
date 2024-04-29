@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joana! 💻❤️
+I'm Joana! 
 
 - 🚀 I recently completed a Full Stack Bootcamp.
 - 🌱 I'm currently learning and learning and learning.
