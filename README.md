@@ -3,9 +3,8 @@
 I'm Joana! 
 
 - 🚀 I recently completed a Full Stack Bootcamp.
-- 🌱 I'm currently learning and learning and learning.
+- 🌱 I'm currently learning, learning till eternity.
 - 💬 Ask me about [something related to programming or technology].
-
 
 ### Let's Connect!
 
