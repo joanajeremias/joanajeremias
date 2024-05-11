@@ -13,7 +13,7 @@
 
 ---
 
-### Frameworks 🛠️
+### Frameworks 🖼️
 
 - Spring
 - Bootstrap
@@ -22,7 +22,7 @@
 
 ---
 
-### Tools & Technologies 🛠️
+### Tools & Technologies 🔫
 
 - Git
 - MySQL
@@ -33,7 +33,7 @@
 
 ---
 
-### 🎓 Learning Ongoing 🌱
+### Learning Ongoing 🌱
 
 Currently polishing my skills in:
 
@@ -41,7 +41,7 @@ Currently polishing my skills in:
 
 ---
 
-### 🎓 What I Want to Learn 🌟
+### What I Want to Learn 🦭
 
 Exploring new horizons with:
 
