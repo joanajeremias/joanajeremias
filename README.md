@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="https://www.outsystems.com/" target="_blank">
-    <img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems" height="40">
+    <img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems">
   </a>
   <a href="https://www.mendix.com/" target="_blank">
-    <img src="https://www.mendix.com/wp-content/themes/mendix_v2/assets/images/mendix_logo.svg" alt="Mendix" height="40">
+    <img src="https://www.mendix.com/wp-content/themes/mendix_v2/assets/images/mendix_logo.svg" alt="Mendix">
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js">
