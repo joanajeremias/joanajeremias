@@ -42,16 +42,16 @@
 
 <div align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
+  
 </div>
 
 <!-- What I want to learn -->
 ### 🎓 What I Want to Learn 🌟
 
 <div align="center">
+ <a href="https://www.outsystems.com/" target="_blank"><img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems" height="40"></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
 
 
