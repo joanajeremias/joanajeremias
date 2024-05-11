@@ -2,12 +2,24 @@
 
 I'm Joana! 
 
-- 🚀 I recently completed a Full Stack Bootcamp.
-- 🌱 I'm currently learning, learning till eternity.
-- 💬 Ask me about [something related to programming or technology].
+ 🚀 I recently completed a Full Stack Bootcamp.
 
-### Let's Connect!
+🪄 Some Technical Skills that i learn:
+Backend: JAVA, MAVEN, SPRING   
+Frontend: JavaScript, CSS, HTML  
+CICD: Git, GitHub Actions  
+Database: SQL  
+Agile: Scrum
 
-- [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
 
-Feel free to explore my profile and get in touch! 😊
+
+ 🌱 I'm currently learning REACT JS.
+
+ 
+
+ 💬 Ask me about [something related to programming or technology]:
+
+- My LinkedIn is [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
+- You can reach me via email at [joanajeremiass@gmail.com](mailto:joanajeremiass@gmail.com).
+
+
