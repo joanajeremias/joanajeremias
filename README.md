@@ -6,33 +6,27 @@
 <!-- Programming Languages -->
 ### Programming Languages 🖥️
 
-<div align="center">
-  <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>
-  <a href="https://html.com/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
-  <a href="https://github.com/ShootiePT" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
-</div>
+- Java
+- JavaScript
+- HTML
+- CSS
 
-<!-- Frameworks -->
 ### Frameworks 🛠️
 
-<div align="center">
-  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"></a>
-    <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"></a>
-</div>
+- Spring
+- Bootstrap
+- jQuery
+- Hibernate
+
 
 <!-- Tools & Technologies -->
 ### Tools & Technologies 🛠️
 
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"></a>
-  <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator"></a>
-  <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop"></a>
-  <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"></a>
+- Git
+- MySQL
+- Maven
+- Postman
+
   
   **Methodologies:** Agile, SCRUM... and some spontaneous coding dance moves 💃🕺
 </div>
@@ -48,20 +42,9 @@
 <!-- What I want to learn -->
 ### 🎓 What I Want to Learn 🌟
 
-<div align="center">
-  <a href="https://www.outsystems.com/" target="_blank">
-    <img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems">
-  </a>
-  <a href="https://www.mendix.com/" target="_blank">
-    <img src="https://www.mendix.com/wp-content/themes/mendix_v2/assets/images/mendix_logo.svg" alt="Mendix">
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
-  </a>
-</div>
+outsystems
+mendix
+ vuejs
 
 
 
