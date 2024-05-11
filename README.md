@@ -3,7 +3,7 @@
 
  🚀 I recently completed a Full Stack Bootcamp.
 
-# 🪄 Some Technical Skills, that i learn:
+ 🪄 Some Technical Skills, that i learn:
 
 Backend: JAVA, MAVEN, SPRING   
 Frontend: JavaScript, CSS, HTML  
