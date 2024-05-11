@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Joana! 
 
  🚀 I recently completed a Full Stack Bootcamp.
 
