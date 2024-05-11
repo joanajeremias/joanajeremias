@@ -49,10 +49,11 @@
 ### 🎓 What I Want to Learn 🌟
 
 <div align="center">
- <a href="https://www.outsystems.com/" target="_blank"><img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems" height="40"></a>
+  <a href="https://www.outsystems.com/" target="_blank"><img src="https://www.outsystems.com/-/media/themes/outsystems/website/logo.svg" alt="OutSystems" style="height: 40px;"></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
+
 
 
 
