@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hello there! 👋
 
+🚀 I've recently completed a Full Stack Bootcamp and I'm eager to embark on new coding adventures!
 
- 🚀 I recently completed a Full Stack Bootcamp.
+---
 
-<!-- Programming Languages -->
 ### Programming Languages 🖥️
 
 - Java
 - JavaScript
 - HTML
 - CSS
+
+---
 
 ### Frameworks 🛠️
 
@@ -18,8 +20,8 @@
 - jQuery
 - Hibernate
 
+---
 
-<!-- Tools & Technologies -->
 ### Tools & Technologies 🛠️
 
 - Git
@@ -27,39 +29,32 @@
 - Maven
 - Postman
 
-  
-  **Methodologies:** Agile, SCRUM... and some spontaneous coding dance moves 💃🕺
-</div>
+**Methodologies:** Agile, SCRUM... and a sprinkle of spontaneous coding dance moves 💃🕺
 
-<!-- Learning Ongoing -->
-### 🎓 Learning Ongoing 🚀
+---
 
-<div align="center">
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
-  
-</div>
+### 🎓 Learning Ongoing 🌱
 
-<!-- What I want to learn -->
+Currently polishing my skills in:
+
+- React
+
+---
+
 ### 🎓 What I Want to Learn 🌟
 
-outsystems
-mendix
- vuejs
+Exploring new horizons with:
 
+- OutSystems
+- Mendix
+- Vue.js
 
+---
 
+💬 Ask me about anything related to programming or technology:
 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
+- Shoot me an email at [joanajeremiass@gmail.com](mailto:joanajeremiass@gmail.com)
 
-
-
-
- 🌱 I'm currently learning REACT JS.
-
- 
-
- 💬 Ask me about [something related to programming or technology]:
-
-- My LinkedIn is [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
-- You can reach me via email at [joanajeremiass@gmail.com](mailto:joanajeremiass@gmail.com).
 
 
