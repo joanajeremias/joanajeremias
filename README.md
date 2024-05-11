@@ -3,7 +3,8 @@
 
  🚀 I recently completed a Full Stack Bootcamp.
 
-🪄 Some Technical Skills that i learn:
+# 🪄 Some Technical Skills, that i learn:
+
 Backend: JAVA, MAVEN, SPRING   
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub Actions  
@@ -12,11 +13,11 @@ Agile: Scrum
 
 
 
- 🌱 I'm currently learning REACT JS.
+ #🌱 I'm currently learning REACT JS.
 
  
 
- 💬 Ask me about [something related to programming or technology]:
+ #💬 Ask me about [something related to programming or technology]:
 
 - My LinkedIn is [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
 - You can reach me via email at [joanajeremiass@gmail.com](mailto:joanajeremiass@gmail.com).
