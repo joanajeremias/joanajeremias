@@ -41,6 +41,7 @@
 Currently polishing my skills in:
 
 - React
+- Agile
 
 ---
 
