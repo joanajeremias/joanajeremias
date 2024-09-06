@@ -1,6 +1,6 @@
 ### Hey 🦑
 
-I recently completed a Full Stack Bootcamp and am exploring the world of coding, focusing on web development. My background in cultural management, and event production, gives me a unique perspective, blending creativity with structured, results-driven approaches.
+I recently completed a Full Stack Bootcamp and am exploring the world of coding, focusing on web development. My background in cultural management and event production, gives me a unique perspective, blending creativity with structured, results-driven approaches.
 
 ---
 
