@@ -1,57 +1,29 @@
-### Hello there! 👋
 
-🚀 I've recently completed a Full Stack Bootcamp and I'm eager to embark on new coding adventures.
-
-🎨 My favorite thing to do is web development, because it allows me to be more creative.
+I recently completed a Full Stack Bootcamp and am exploring the world of coding, focusing on web development. My background in commercial management, event production, and art history gives me a unique perspective, blending creativity with structured, results-driven approaches.
 
 
----
 
-### Programming Languages 🖥️
+Frameworks:
+Spring
+Bootstrap
+jQuery
+Hibernate
 
-- Java
-- JavaScript
-- HTML
-- CSS
+Tools & Technologies:
+Git
+MySQL
+Maven
+Postman
+Methodologies: Agile, SCRUM
 
----
+I’m continuously refining my skills, currently focusing on:
+React
+Agile methodologies
 
-### Frameworks 🖼️
-
-- Spring
-- Bootstrap
-- jQuery
-- Hibernate
-
----
-
-### Tools & Technologies 🔫
-
-- Git
-- MySQL
-- Maven
-- Postman
-
-**Methodologies:** Agile, SCRUM... 💃
-
----
-
-### Learning Ongoing 🌱
-
-Currently polishing my skills in:
-
-- React
-- Agile
-
----
-
-### What I Want to Learn 🦭
-
-Exploring new horizons with:
-
-- OutSystems
-- Vue.js
-- Figma
+Eager to explore new technologies and expand my skill set:
+OutSystems
+Vue.js
+Figma
 
 ---
 
