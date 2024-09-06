@@ -1,29 +1,55 @@
+### About Me
 
 I recently completed a Full Stack Bootcamp and am exploring the world of coding, focusing on web development. My background in commercial management, event production, and art history gives me a unique perspective, blending creativity with structured, results-driven approaches.
 
+---
 
+### Programming Languages
 
-Frameworks:
-Spring
-Bootstrap
-jQuery
-Hibernate
+- Java
+- JavaScript
+- HTML
+- CSS
 
-Tools & Technologies:
-Git
-MySQL
-Maven
-Postman
-Methodologies: Agile, SCRUM
+---
+
+### Frameworks
+
+- Spring
+- Bootstrap
+- jQuery
+- Hibernate
+
+---
+
+### Tools & Technologies
+
+- Git
+- MySQL
+- Maven
+- Postman
+
+**Methodologies:** Agile, SCRUM
+
+---
+
+### Currently Enhancing
 
 I’m continuously refining my skills, currently focusing on:
-React
-Agile methodologies
+
+- React
+- Agile methodologies
+
+---
+
+### Expanding Horizons
 
 Eager to explore new technologies and expand my skill set:
-OutSystems
-Vue.js
-Figma
+
+- OutSystems
+- Vue.js
+- Figma
+
 
 ---
 
