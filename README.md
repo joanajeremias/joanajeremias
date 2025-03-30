@@ -1,4 +1,4 @@
-## ◼️ hey
+## ◼️ Hey
 
 I began my career in cultural management and event production, later transitioning to software development after completing a Full Stack Development Bootcamp. I focus on building efficient and functional web solutions.
 
