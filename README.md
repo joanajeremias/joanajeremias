@@ -4,7 +4,7 @@ I began my career in cultural management and event production, later transitioni
 
 ---
 
-### ◻️ Skills  
+## ◻️ Skills  
 - **Languages:** Java, JavaScript  
 - **Markup & Styling:** HTML, CSS  
 - **Frameworks:** Spring, Hibernate, Bootstrap, jQuery  
