@@ -1,62 +1,21 @@
-### Hey 🦑
 
-I recently completed a Full Stack Bootcamp and am exploring the world of coding, focusing on web development. My background in cultural management and event production, gives me a unique perspective, blending creativity with structured, results-driven approaches.
+My journey began in cultural management and event production, but the logic and precision of software development led me to complete a Full Stack Development Bootcamp. Since then, I have worked with various tools and methodologies, focusing on building efficient and well-structured solutions.  
 
----
+### Technologies  
+▪ **Languages:** Java, JavaScript, HTML, CSS  
+▪ **Frameworks:** Spring, Hibernate, Bootstrap, jQuery  
+▪ **Databases & Tools:** MySQL, Maven, Git, Postman  
+▪ **Methodologies:** Agile, SCRUM  
+▪ **Additional Exploration:** Cybersecurity fundamentals, UX/UI Design  
 
-### Programming Languages
+### Principles  
+▸ **Structure over ornamentation.** Clean, organized, and functional code.  
+▸ **Form follows function.** Every project arises from necessity, not excess.  
+▸ **Precision and clarity.** Simplicity is not a starting point, but a goal.  
 
-- Java
-- JavaScript
-- HTML
-- CSS
+## Contact  
+✉️ [LinkedIn](https://www.linkedin.com/in/joanajeremias/)  
 
----
-
-### Frameworks
-
-- Spring
-- Bootstrap
-- jQuery
-- Hibernate
-
----
-
-### Tools & Technologies
-
-- Git
-- MySQL
-- Maven
-- Postman
-
-**Methodologies:** Agile, SCRUM
-
----
-
-### Currently Enhancing
-
-I’m continuously refining my skills, currently focusing on:
-
-- React
-- Agile methodologies
-
----
-
-### Expanding Horizons
-
-Eager to explore new technologies and expand my skill set:
-
-- OutSystems
-- Vue.js
-- Figma
-
-
----
-
-💬 Ask me about anything related to programming or technology:
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/joanajeremias/)
-- Shoot me an email at [joanajeremiass@gmail.com](mailto:joanajeremiass@gmail.com)
 
 
 
